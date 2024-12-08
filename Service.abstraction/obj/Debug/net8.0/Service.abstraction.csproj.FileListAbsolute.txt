@@ -1,0 +1,15 @@
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\bin\Debug\net8.0\Service.abstraction.deps.json
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\bin\Debug\net8.0\Service.abstraction.dll
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\bin\Debug\net8.0\Service.abstraction.pdb
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\bin\Debug\net8.0\Domain.dll
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\bin\Debug\net8.0\Domain.pdb
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\Service.abstraction.csproj.AssemblyReference.cache
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\Service.abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\Service.abstraction.AssemblyInfoInputs.cache
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\Service.abstraction.AssemblyInfo.cs
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\Service.abstraction.csproj.CoreCompileInputs.cache
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\Service..35B15259.Up2Date
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\Service.abstraction.dll
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\refint\Service.abstraction.dll
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\Service.abstraction.pdb
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Service.abstraction\obj\Debug\net8.0\ref\Service.abstraction.dll

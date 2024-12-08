@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FD54F8-0FDC-44C9-813E-4B513B4B8914}|Weekend\\Weekend.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\weekend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FD54F8-0FDC-44C9-813E-4B513B4B8914}|Weekend\\Weekend.csproj|solutionrelative:weekend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8DA229-B6C2-4B7D-9A35-1F442B95C8D2}|service\\service.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8DA229-B6C2-4B7D-9A35-1F442B95C8D2}|service\\service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FD54F8-0FDC-44C9-813E-4B513B4B8914}|Weekend\\Weekend.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\weekend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1FD54F8-0FDC-44C9-813E-4B513B4B8914}|Weekend\\Weekend.csproj|solutionrelative:weekend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FD54F8-0FDC-44C9-813E-4B513B4B8914}|Weekend\\Weekend.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\weekend\\weekend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1FD54F8-0FDC-44C9-813E-4B513B4B8914}|Weekend\\Weekend.csproj|solutionrelative:weekend\\weekend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55285F2-DFFD-4739-91BE-F4FFB09C6EFE}|Db\u0026DI\\Db_DI.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\db\u0026di\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55285F2-DFFD-4739-91BE-F4FFB09C6EFE}|Db\u0026DI\\Db_DI.csproj|solutionrelative:db\u0026di\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FD54F8-0FDC-44C9-813E-4B513B4B8914}|Weekend\\Weekend.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\weekend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FD54F8-0FDC-44C9-813E-4B513B4B8914}|Weekend\\Weekend.csproj|solutionrelative:weekend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F871085-8ED0-49EE-AEB1-91119162AB61}|Domain\\Domain.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\domain\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F871085-8ED0-49EE-AEB1-91119162AB61}|Domain\\Domain.csproj|solutionrelative:domain\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F871085-8ED0-49EE-AEB1-91119162AB61}|Domain\\Domain.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F871085-8ED0-49EE-AEB1-91119162AB61}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B632DDF-0E7E-4A15-B158-720420BC2543}|Service.abstraction\\Service.abstraction.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\service.abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B632DDF-0E7E-4A15-B158-720420BC2543}|Service.abstraction\\Service.abstraction.csproj|solutionrelative:service.abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55285F2-DFFD-4739-91BE-F4FFB09C6EFE}|Db\u0026DI\\Db_DI.csproj|c:\\users\\jana01\\desktop\\uat\\sample\\weekend\\db\u0026di\\db_di.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F55285F2-DFFD-4739-91BE-F4FFB09C6EFE}|Db\u0026DI\\Db_DI.csproj|solutionrelative:db\u0026di\\db_di.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weekend.csproj",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Weekend\\Weekend.csproj",
+              "RelativeDocumentMoniker": "Weekend\\Weekend.csproj",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Weekend\\Weekend.csproj",
+              "RelativeToolTip": "Weekend\\Weekend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T20:27:02.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Weekend\\appsettings.json",
+              "RelativeDocumentMoniker": "Weekend\\appsettings.json",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Weekend\\appsettings.json",
+              "RelativeToolTip": "Weekend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T09:02:54.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Weekend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Weekend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Weekend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Weekend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:41:33.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Db_DI.csproj",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db\u0026DI\\Db_DI.csproj",
+              "RelativeDocumentMoniker": "Db\u0026DI\\Db_DI.csproj",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db\u0026DI\\Db_DI.csproj",
+              "RelativeToolTip": "Db\u0026DI\\Db_DI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T21:12:08.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db\u0026DI\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Db\u0026DI\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db\u0026DI\\AppDbContext.cs",
+              "RelativeToolTip": "Db\u0026DI\\AppDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:12:25.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Weekend\\Program.cs",
+              "RelativeDocumentMoniker": "Weekend\\Program.cs",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Weekend\\Program.cs",
+              "RelativeToolTip": "Weekend\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:05:13.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Service.abstraction\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service.abstraction\\IUserService.cs",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Service.abstraction\\IUserService.cs",
+              "RelativeToolTip": "Service.abstraction\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:33:57.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\service\\UserService.cs",
+              "RelativeDocumentMoniker": "service\\UserService.cs",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\service\\UserService.cs",
+              "RelativeToolTip": "service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:32:15.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Model\\UserModel.cs",
+              "RelativeToolTip": "Domain\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:30:31.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Entity\\User.cs",
+              "RelativeToolTip": "Domain\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:30:01.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

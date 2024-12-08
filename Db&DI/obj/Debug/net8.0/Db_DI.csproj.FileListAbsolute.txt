@@ -1,0 +1,15 @@
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\bin\Debug\net8.0\Db_DI.deps.json
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\bin\Debug\net8.0\Db_DI.dll
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\bin\Debug\net8.0\Db_DI.pdb
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\bin\Debug\net8.0\Domain.dll
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\bin\Debug\net8.0\Domain.pdb
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\Db_DI.csproj.AssemblyReference.cache
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\Db_DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\Db_DI.AssemblyInfoInputs.cache
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\Db_DI.AssemblyInfo.cs
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\Db_DI.csproj.CoreCompileInputs.cache
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\Db_DI.csproj.Up2Date
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\Db_DI.dll
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\refint\Db_DI.dll
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\Db_DI.pdb
+C:\Users\jana01\Desktop\UAT\sample\Weekend\Db&DI\obj\Debug\net8.0\ref\Db_DI.dll
