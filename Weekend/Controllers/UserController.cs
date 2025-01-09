@@ -27,7 +27,14 @@ namespace Weekend.Controllers
             var response = new UserModel();
             try
             {
-                response = await _userservice.GetUser(userid);
+                if (userid != null)
+                {
+                    response = await _userservice.GetUser(userid);
+                }
+                else
+                {
+                    return StatusCode(204, "User id is null");
+                }
 
                 return Ok(response);
             }
@@ -37,6 +44,24 @@ namespace Weekend.Controllers
                 return StatusCode(500, "something went wrong please check the error log");
             }
             
+        }
+
+        [HttpPost]
+        [Route("/edituser")]
+
+        public async Task<IActionResult> EditUsers([FromQuery] UserModel usermodel)
+        {
+            var response = new DatabaseResponse();
+            try
+            {
+                response = await _userservice.EditUser(usermodel);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("{ex}", ex);
+                return StatusCode(500, "Something went wrong, please check the logs.");
+            }
+            return Ok(response);
         }
     }
 }

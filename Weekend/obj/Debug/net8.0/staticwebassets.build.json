@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "NC3KwUCp/7gH6T6KQZMp6c6jJv5ID/28qxm4hLQUf4M=",
+  "Hash": "ScBrd/DlSgJ9Qi8INvpc1HqckKS5pFE0BqBScScdX3M=",
   "Source": "Weekend",
   "BasePath": "_content/Weekend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\service\\service.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\service\\service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db&DI\\Db_DI.csproj": {
+    "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Db&DI\\Db_DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db&DI\\Db_DI.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Db&DI\\Db_DI.csproj",
         "projectName": "Db_DI",
-        "projectPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db&DI\\Db_DI.csproj",
-        "packagesPath": "C:\\Users\\jana01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db&DI\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Db&DI\\Db_DI.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Db&DI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jana01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Domain.csproj"
+              "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Domain\\Domain.csproj"
               }
             }
           }
@@ -48,13 +47,18 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
@@ -79,24 +83,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Domain.csproj": {
+    "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\jana01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jana01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,7 +109,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,7 +126,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -150,24 +154,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Service.abstraction\\Service.abstraction.csproj": {
+    "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Service.abstraction\\Service.abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Service.abstraction\\Service.abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Service.abstraction\\Service.abstraction.csproj",
         "projectName": "Service.abstraction",
-        "projectPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Service.abstraction\\Service.abstraction.csproj",
-        "packagesPath": "C:\\Users\\jana01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Service.abstraction\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Service.abstraction\\Service.abstraction.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Service.abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jana01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -176,15 +180,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Domain\\Domain.csproj"
+              "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Domain\\Domain.csproj"
               }
             }
           }
@@ -198,7 +201,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -219,24 +223,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\service\\service.csproj": {
+    "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\service\\service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\service\\service.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\service\\service.csproj",
         "projectName": "service",
-        "projectPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\service\\service.csproj",
-        "packagesPath": "C:\\Users\\jana01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\service\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\service\\service.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jana01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -245,18 +249,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db&DI\\Db_DI.csproj": {
-                "projectPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Db&DI\\Db_DI.csproj"
+              "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Db&DI\\Db_DI.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Db&DI\\Db_DI.csproj"
               },
-              "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Service.abstraction\\Service.abstraction.csproj": {
-                "projectPath": "C:\\Users\\jana01\\Desktop\\UAT\\sample\\Weekend\\Service.abstraction\\Service.abstraction.csproj"
+              "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Service.abstraction\\Service.abstraction.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\Weekend\\weekend API\\Service.abstraction\\Service.abstraction.csproj"
               }
             }
           }
@@ -270,7 +273,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -291,7 +295,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

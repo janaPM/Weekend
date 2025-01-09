@@ -756,10 +756,14 @@
         "dependencies": {
           "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.1"
         },
         "runtime": {
-          "Db_DI.dll": {}
+          "Db_DI.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Domain/1.0.0": {
@@ -767,7 +771,10 @@
           "Microsoft.EntityFrameworkCore": "9.0.0"
         },
         "runtime": {
-          "Domain.dll": {}
+          "Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "service/1.0.0": {
@@ -776,7 +783,10 @@
           "Service.abstraction": "1.0.0"
         },
         "runtime": {
-          "service.dll": {}
+          "service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Service.abstraction/1.0.0": {
@@ -784,7 +794,10 @@
           "Domain": "1.0.0"
         },
         "runtime": {
-          "Service.abstraction.dll": {}
+          "Service.abstraction.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

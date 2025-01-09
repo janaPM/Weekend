@@ -10,6 +10,7 @@ namespace Service.abstraction
     public interface IUserService
     {
         Task<UserModel> GetUser(string id);
+        Task<DatabaseResponse> EditUser(UserModel userModel);
 
     }
 }

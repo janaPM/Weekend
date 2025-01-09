@@ -17,3 +17,23 @@ C:\Users\jana01\Desktop\UAT\sample\Weekend\service\obj\Debug\net8.0\service.dll
 C:\Users\jana01\Desktop\UAT\sample\Weekend\service\obj\Debug\net8.0\refint\service.dll
 C:\Users\jana01\Desktop\UAT\sample\Weekend\service\obj\Debug\net8.0\service.pdb
 C:\Users\jana01\Desktop\UAT\sample\Weekend\service\obj\Debug\net8.0\ref\service.dll
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\service.deps.json
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\service.dll
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\service.pdb
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\Db_DI.dll
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\Domain.dll
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\Service.abstraction.dll
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\Db_DI.pdb
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\Service.abstraction.pdb
+C:\Users\hp\Desktop\Weekend\weekend API\service\bin\Debug\net8.0\Domain.pdb
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.AssemblyInfo.cs
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.sourcelink.json
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.csproj.Up2Date
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.dll
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\refint\service.dll
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\service.pdb
+C:\Users\hp\Desktop\Weekend\weekend API\service\obj\Debug\net8.0\ref\service.dll
